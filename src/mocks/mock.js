@@ -1,0 +1,1 @@
+ export const userMock = require('./login/LoginMock.json');
